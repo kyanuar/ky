@@ -220,7 +220,7 @@ section h3::after{
 }
 .bar .value-css{
   height: 20px;
-  width: 80%;
+  width: 90%;
   background-color: chocolate;
   display: inline-block;
   border-radius: 50px;
